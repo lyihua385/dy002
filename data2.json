@@ -1,7 +1,1 @@
-{
-  "sw": true,
-  "ub": "https://blbet.com/?id=73086629",
-  "js1": "javascript: window.jsBridge = window.jsBridge || {};",
-  "js2": "javascript: window.jsBridge.postMessage = function(a,b){window.CbDeANYfzv.CbDeANYfzv(a,b);};",
-  "af": "iJgMNeyRK5cn2m5Csmhc3J"
-}
+
